@@ -1,6 +1,10 @@
+The Colored Sentence Program
+-----
+By: Kaden Hansen
+
 CSP or The Colored Sentence Program is a python program I wrote last year.
 The fundamentals of it are made. However, bug fixes are still underway. Feel
-free to test it out!
+free to test it out though!
 
 *Note: Please read all the text I have provided in the
 terminal when you run the program. Everything is explained much
@@ -39,19 +43,15 @@ customizable as possible.)
 
 save_file: All of the txt filenames used by the program.
 
------
 (i. e. first.txt will have its own line in this file
 as "first" to tell the program it is in the CSP directory)
------
 
 saved_color_codes: The saved_custom RGB ansi codes with the
 name first and the ANSI code second. The program uses this
 line to one, name the color and two, use the correct color
 code.
 
------
 (i. e. "sea blue-[38;2;46;122;234m")
------
 
 Sadly, because the RGB menu I have implemented into this program
 is not general enough, I have not included it in text_colors.py.
