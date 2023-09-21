@@ -24,7 +24,8 @@ menu is accessed by typing "rgb" in the main menu.
 Beginner's Legend:
 -----
 first.txt: your first sentence file to save sentences
-in. To change this, read the introduction.
+in. To change this, read the introduction found in the
+program file.
 
 file_accessed_number.txt: Tells the program if it
 needs to first create a file before trying to use an
