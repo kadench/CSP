@@ -1,7 +1,7 @@
 The Colored Sentence Program
 -----
 By: Kaden Hansen
---
+---
 
 CSP or The Colored Sentence Program is a python program I wrote last year.
 The fundamentals of it are made. However, bug fixes are still underway. Feel
