@@ -567,9 +567,6 @@ def instructions():
     print()
     print(red('© Kaden Hansen. All Rights Reserved.'))
     input(light_purple('Press the Enter key to Continue. '))
-    print()
-    print('(Not really)')
-    input(light_purple('Press the Enter key to Continue. '))
 
 def instruction_introduction():
     """
