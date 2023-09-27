@@ -62,6 +62,6 @@ make with the info I found on the internet.
 Warning: If you encounter an issue where two file names in save_file.txt
 combine into one line while the program is running, please stop the program
 and restart it. The program will tell you what to do next. I'm sure I fixed
-this issue, but there still may be a chance that this in effect.
+this issue, but there still may be a chance that this is in effect.
 
 © 2023 Kaden Hansen. All Rights Reserved.
