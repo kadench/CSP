@@ -42,12 +42,12 @@ you wanted to create a new file before you start the program.
 You do not need to do this, but I tried to make the program as
 customizable as possible.)
 
-save_file: All of the txt filenames used by the program.
+save_file.txt: All of the txt filenames used by the program.
 
 (i. e. first.txt will have its own line in this file
 as "first" to tell the program it is in the CSP directory)
 
-saved_color_codes: The saved_custom RGB ansi codes with the
+saved_color_codes.txt: The saved_custom RGB ansi codes with the
 name first and the ANSI code second. The program uses this
 line to one, name the color and two, use the correct color
 code.
